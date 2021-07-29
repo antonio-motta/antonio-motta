@@ -43,7 +43,7 @@
 - [x] Docs: Swagger | OpenApi
 - [x] Restful | SOAP | gRPC
 - [x] Front-end: Angular | TypeScript | Angular JS | HTML | CSS | Javascript 
-- [x] Apache Kafka | Apache ActiveMQ | RabbitMQ
+- [x] Message: Apache Kafka | Apache ActiveMQ | RabbitMQ
 - [x] Database: Postgres | Oracle | SQL Server | MySQL | DB2 | MongoDB | ElasticSearch 
 - [x] Tools: Docker | Jenkins | Sonar | Git | GitLab | GitHub
 - [x] IDE: Eclipse | IntelliJ IDEA | VSCode | Postman | SoapUI 
