@@ -1,7 +1,7 @@
 ## 👨‍💻 Welcome to Antonio Motta profile!
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A8585&center=true&multiline=true&width=600&height=55&lines=Java%2FKotlin+Software+Engineer;Towards+the+dream+of+being+an+Architect%2FSpecialist;~)](https://git.io/typing-svg)  <br/>  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A8585&center=true&multiline=true&width=600&height=55&lines=Java%2FKotlin+Software+Engineer;Towards+the+dream+of+being+an+Architect%2FSpecialist;~)](https://github.com/antonio-motta)  <br/>  
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/affmotta/)](https://www.linkedin.com/in/affmotta/)
   [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561995511463&text=Olá!)](https://web.whatsapp.com/send?phone=5568992385223&text=Oi+Antonio%21%0AMe+chamo%3A%0AQuero+tratar+sobre:%3A) <br/> 
   <img src="https://img.shields.io/badge/Java-Backend-informational?style=flat&logo=java&color=05122A" />
@@ -37,16 +37,17 @@
 ### 🛠️ My favorite tools
 - [x] Java: Spring | JSF | Java EE
 - [x] Kotlin: Spring 
+- [x] Cloud: Amazon AWS, Docker Container, Kubernates
 - [x] NodeJS: Express | Sequelize | Nodemon
-- [x] Tests: Junit | Mockito | PowerMock | Mockk
+- [x] Tests: Junit | Mockito | PowerMock | Mockk | Wiremock
 - [x] Servers: Tomcat | Wildfly | Glassfish
 - [x] Docs: Swagger | OpenApi
-- [x] Restful | SOAP | gRPC
+- [x] Messaging Protocol: Restful | SOAP | gRPC
 - [x] Front-end: Angular | TypeScript | Angular JS | HTML | CSS | Javascript 
-- [x] Message: Apache Kafka | Apache ActiveMQ | RabbitMQ
+- [x] Message Broker: Apache Kafka | Apache ActiveMQ | RabbitMQ
 - [x] Database: Postgres | Oracle | SQL Server | MySQL | DB2 | MongoDB | ElasticSearch 
 - [x] Tools: Docker | Jenkins | Sonar | Git | GitLab | GitHub
 - [x] IDE: Eclipse | IntelliJ IDEA | VSCode | Postman | SoapUI 
-- [x] Tools task: Jira | Redmine | Trello
+- [x] Task tools: Jira | Redmine | Trello
 - [x] Agile: Scrum | e<b>X</b>treming <b>P</b>rograming | Lean
 - [x] OS: Linux | Windows
